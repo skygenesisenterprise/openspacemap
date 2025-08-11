@@ -1,1 +1,1 @@
-# openspacemap
+# Open Space Map Project
